@@ -1,0 +1,11 @@
+.actions {
+  display: flex;
+}
+
+.social {
+  margin-right: auto;
+}
+
+.social button:first-child {
+  margin-right: 0.5rem;
+}

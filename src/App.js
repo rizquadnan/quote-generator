@@ -1,8 +1,11 @@
+import Background from "./components/Background/Background";
+import QuoteGenerator from "./components/QuoteGenerator/QuoteGenerator";
+
 function App() {
   return (
-    <div>
-     Hello world
-    </div>
+    <Background>
+      <QuoteGenerator></QuoteGenerator>
+    </Background>
   );
 }
 

@@ -1,0 +1,10 @@
+.generator {
+  max-width: 28rem;
+  width: 100%;
+  padding: 2.5rem;
+  background-color: #fff;
+}
+
+.displayer {
+  margin-bottom: 2rem;
+}
